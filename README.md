@@ -1,2 +1,0 @@
-# CZ
-Crypto-Zombies
